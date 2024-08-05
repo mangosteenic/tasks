@@ -58,12 +58,24 @@ input[type=checkbox] {
   vertical-align: middle;
   margin: 0;
   margin-left: 1em;
+  transition: 0.5s;
+}
+
+input[type=checkbox]:hover {
+  cursor: pointer;
+  background-color: #404560;
 }
 
 input[type=checkbox]:checked {
   border: none;
   background-color: #9FADD5;
 }
+
+input[type=checkbox]:disabled {
+  cursor: default;
+  background-color: #151A25;
+}
+
 
 input[type=checkbox]:checked + input[type=text] {
   text-decoration: line-through;
@@ -109,10 +121,6 @@ button {
 
 button:hover {
   color: #9FADD5;
-}
-
-button:focus {
-  outline: 1px solid #404560;
 }
 
 button:disabled {
