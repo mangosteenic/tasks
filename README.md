@@ -25,4 +25,4 @@ npm run dev
 
 ## some resources i used
 - [base code](https://dev.to/w3tsa/an-introduction-to-typescript-building-a-simple-todo-app-with-react-1m2d)
-- color palette: [monkeytype](https://monkeytype.com/)'s midnight theme preset
+- color palette: [monkeytype](https://monkeytype.com/)'s midnight theme preset :p
