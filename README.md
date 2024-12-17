@@ -1,6 +1,6 @@
 # tasks
 ## about
-a simple to-do list app made with React and Typescript, focusing on front-end development using plain CSS
+a simple to-do list app made with React and Typescript, focusing on front-end development using vanilla CSS
 ![gif of app](https://github.com/user-attachments/assets/c8809d1f-3a8b-44e8-8164-ee8e5a950add)
 
 ## how to access locally
